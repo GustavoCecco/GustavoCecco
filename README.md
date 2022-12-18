@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá meu nome é Gustavo 👋
+
+- Eu tenho 27 anos, atualmente sou técnico de suporte (HELPDESK), onde presto suporte Fiscal e Contábil para usuários do sistema Domínio.
+
+- Atualmente estou estudando e me qualificando para ingressar no mercado de trabalho preferencialmente na área de dados.
+
+- Em 2023 vou iniciar o curso de Análise e Desenvolvimento de Sistemas
+
+- Estou estudando SQL | Power BI | AWS
 
 <!--
 **GustavoCecco/GustavoCecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
