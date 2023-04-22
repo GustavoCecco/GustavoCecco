@@ -1,8 +1,8 @@
 ### Olá meu nome é Gustavo 👋
 
-- Eu tenho 27 anos, atualmente sou técnico de suporte (HELPDESK), onde presto suporte Fiscal e Contábil para usuários do sistema Domínio.
+- Eu tenho 27 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
-- Atualmente estou estudando e me qualificando para ingressar no mercado de trabalho preferencialmente na área de dados.
+- Participando de Bootcamps e realizando projetos para enriquecer o Git.
 
 - Estou estudando SQL | Power BI | DAX | AWS
 
