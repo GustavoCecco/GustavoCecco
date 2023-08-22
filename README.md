@@ -1,10 +1,10 @@
 ### Olá meu nome é Gustavo 👋
 
-- Eu tenho 27 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- Eu tenho 28 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 - Participando de Bootcamps e realizando projetos para enriquecer o Git.
 
-- Estou estudando SQL | Power BI | DAX | AWS
+- Estou estudando SQL | Power BI | DAX | AWS | Python
 
 <!--
 **GustavoCecco/GustavoCecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
