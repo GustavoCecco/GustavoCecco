@@ -1,6 +1,6 @@
 ### Olá meu nome é Gustavo 👋
 
-- Eu tenho 28 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- Eu tenho 28 anos, atualmente estou cursando Data & Analytics pela PUC-RS.
 
 - Participando de Bootcamps e realizando projetos para enriquecer o Git.
 
