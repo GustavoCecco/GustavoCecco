@@ -1,10 +1,10 @@
 ### Olá meu nome é Gustavo 👋
 
-- Eu tenho 28 anos, atualmente estou cursando Data & Analytics pela PUC-RS.
+- Eu tenho 29 anos, atualmente estou cursando Data & Analytics pela PUC-RS.
 
 - Participando de Bootcamps e realizando projetos para enriquecer o Git.
 
-- Estou estudando SQL | Power BI | DAX | AWS | Python
+- Ferramentas que utilizo: SQL | Power BI | Python | Excel
 
 <!--
 **GustavoCecco/GustavoCecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
