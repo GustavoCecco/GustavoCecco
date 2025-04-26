@@ -2,8 +2,6 @@
 
 - Eu tenho 29 anos, atualmente estou cursando Data & Analytics pela PUC-RS.
 
-- Participando de Bootcamps e realizando projetos para enriquecer o Git.
-
 - Ferramentas que utilizo: SQL | Power BI | Python | Excel
 
 <!--
